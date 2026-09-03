@@ -10,3 +10,5 @@ B)No lo ven hasta que alfa haga un push y los integrantes un pull
 BETA:
 C)Ellos no lo van a poder ver hasta que beta haga un push en su forma local y los integrantes hagan un pull
 D)Principalmente por llamada pero también por git commit -m
+GAMMA:
+E)La mejor manera de comunicarse en github es usar los commit -m
