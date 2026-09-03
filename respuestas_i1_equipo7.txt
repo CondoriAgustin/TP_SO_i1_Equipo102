@@ -7,3 +7,6 @@ e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
 ALFA:
 A)No se puede ver los cambios hasta que los integrantes hagan un push y alfa un pull
 B)No lo ven hasta que alfa haga un push y los integrantes un pull
+BETA:
+C)Ellos no lo van a poder ver hasta que beta haga un push en su forma local y los integrantes hagan un pull
+D)Principalmente por llamada pero también por git commit -m
